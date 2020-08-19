@@ -1,0 +1,15 @@
+.idea/
+.vscode/
+.cache/
+
+pkg/
+bin/
+
+*.exe
+*.txt.*
+go_build_*
+*/release/*
+release/*
+
+vendor/
+!vendor/vendor.json
